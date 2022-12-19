@@ -1,0 +1,5 @@
+-the algorithm takes as input the temperature and capacity of the furnace and as output the power consumption
+-uses the sugeno model (the result is produced by the weighted average of the rules values after computation)
+eg: each rule has a crisp output, the overall output is obtained via weighted average, thus avoiding the time-consuming process of defuzzification required in a Mamdani model
+-uses MISO system (Multiple Inputs Single Output)
+-the capacity is directly proportional with the power and the temperature is inversely proportional with the power

@@ -1,0 +1,7 @@
+Capacity: 2 and temperature: 30 will yield a consumption power of: 4.0
+Capacity: 4 and temperature: 100 will yield a consumption power of: 5.857142857142857
+Capacity: 5 and temperature: 60 will yield a consumption power of: 10.0
+Capacity: 9 and temperature: 110 will yield a consumption power of: 5.0
+Capacity: 2 and temperature: 110 will yield a consumption power of: 5.0
+Capacity: 10 and temperature: 20 will yield a consumption power of: 20.0
+Capacity: 5 and temperature: 100 will yield a consumption power of: 5.0
